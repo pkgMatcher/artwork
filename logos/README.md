@@ -23,4 +23,4 @@ These images link to the clean SVG versions of the logos. The files under [src](
 
 ## How to generate logos
 
-- Size: 100x100 mm
+* Size: 100x100 mm
