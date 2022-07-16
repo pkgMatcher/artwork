@@ -18,3 +18,9 @@ These images link to the clean SVG versions of the logos. The files under [src](
 ## How to generate logos
 
 - Size: 100x100 mm
+
+## Preview logos
+
+| <a href="svg/logo.svg"><img src="png/logo.png" width=128 height=128 /></a>|<a href="svg/logo_discolored.svg"><img src="png/logo_discolored.png" width=128 height=128 /></a> | <a href="svg/logo_mono.svg"><img src="png/logo_mono.png" width=128 height=128 /></a>|
+|---|---|---|
+| Original logo | Discolored logo | Mono logo |
